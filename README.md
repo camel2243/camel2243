@@ -11,7 +11,7 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://source.unsplash.com/480x270/?camel" />
+<img align="right" src="https://source.unsplash.com/480x270/?camel" />
 
 ### I am Camel
 - An happy Engineer interested in programming.
