@@ -2,7 +2,7 @@
 
 
 <a href="https://blog.camel2243.com">
-  <img align="left" alt="Camel's Blog" width="22px" src="https://i0.wp.com/blog.camel2243.com/wp-content/uploads/icon.png" />
+  <img align="left" alt="Camel's Blog" width="22px" src="https://blog.camel2243.com/favicon.png" />
 </a>
 <a href="https://github.com/camel2243">
   <img align="left" alt="Camel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
