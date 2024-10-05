@@ -11,7 +11,6 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-<img align="right" src="https://source.unsplash.com/480x270/?camel" />
+<img align="right" src="https://loremflickr.com/480/270/camel" />
 
-### I am Camel
-- An happy Engineer interested in programming.
+Full-Stack Engineer with 8+ Years of Experience in Website Architecture, Development, and Cross-Device Troubleshooting. Skilled in Project Deployment, Business Needs Assessment, and Team Collaboration.
