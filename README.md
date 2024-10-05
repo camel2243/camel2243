@@ -13,4 +13,4 @@
 <br />
 <img align="right" src="https://loremflickr.com/480/270/camel" />
 
-Full-Stack Engineer with 8+ Years of Experience in Website Architecture, Development, and Cross-Device Troubleshooting. Skilled in Project Deployment, Business Needs Assessment, and Team Collaboration.
+Full-Stack Engineer specializing in development.
