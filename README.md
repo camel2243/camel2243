@@ -11,6 +11,6 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-<img align="right" src="https://loremflickr.com/480/270/camel" />
+<img align="right" src="https://uploads.camel.dev/un-avatar.jpg" />
 
 Full-Stack Engineer specializing in development.
